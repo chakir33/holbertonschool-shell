@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -p welcome/to/schoolwelcome/to/school
+rm -p welcome/to/school
