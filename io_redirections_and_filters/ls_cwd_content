@@ -20,3 +20,28 @@ README.md
 README.md~
 \*\'"Best School"\'\*$\?\*\*\*\*\*:)
 ls_cwd_content
+total 60
+drwxr-xr-x 2 root root 4096 Oct 16 14:34 .
+drwxr-xr-x 6 root root 4096 Oct 16 09:30 ..
+-rwxr--r-- 1 root root   31 Oct 16 09:55 0-hello_world
+-rw-r--r-- 1 root root    0 Oct 16 09:30 0-hello_world~
+-rwxr--r-- 1 root root   28 Oct 16 11:37 1-confused_smiley
+-rwxr--r-- 1 root root   28 Oct 16 10:37 1-confused_smiley~
+-rwxr--r-- 1 root root   27 Oct 16 11:52 2-hellofile
+-rw-r--r-- 1 root root    0 Oct 16 11:51 2-hellofile~
+-rwxr--r-- 1 root root   38 Oct 16 11:58 3-twofiles
+-rw-r--r-- 1 root root    0 Oct 16 11:55 3-twofiles~
+-rwxr--r-- 1 root root   33 Oct 16 12:03 4-lastlines
+-rw-r--r-- 1 root root    0 Oct 16 12:00 4-lastlines~
+-rwxr--r-- 1 root root   37 Oct 16 12:13 5-firstlines
+-rw-r--r-- 1 root root    0 Oct 16 12:11 5-firstlines~
+-rwxr--r-- 1 root root   40 Oct 16 12:27 6-third_line
+-rw-r--r-- 1 root root    0 Oct 16 12:20 6-third_line~
+-rwxr--r-- 1 root root   87 Oct 16 14:10 7-file
+-rw-r--r-- 1 root root    0 Oct 16 12:55 7-file~
+-rwxr--r-- 1 root root   37 Oct 16 14:34 8-cwd_state
+-rw-r--r-- 1 root root    0 Oct 16 14:28 8-cwd_state~
+-rw-r--r-- 1 root root    6 Oct 16 10:00 README.md
+-rw-r--r-- 1 root root    0 Oct 16 09:57 README.md~
+-rw-r--r-- 1 root root   12 Oct 16 13:59 \*\'"Best School"\'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root  306 Oct 16 14:32 ls_cwd_content
