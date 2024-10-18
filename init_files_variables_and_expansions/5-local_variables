@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Variables d'environnement:"; printenv; echo -e "\nVariables locales:"; declare -p | grep -E 'declare -[l]'; echo -e "\nFonctions:"; declare -F
