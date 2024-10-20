@@ -1,2 +1,2 @@
 #!/bin/bash
-imprimerf "%.2f" $num |grep
+Printf '%.2f\n' $num |grep
