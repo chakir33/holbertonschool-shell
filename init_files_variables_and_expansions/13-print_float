@@ -1,0 +1,2 @@
+#!/bin/bash
+imprimerf "%.2f" $NUM |trier
