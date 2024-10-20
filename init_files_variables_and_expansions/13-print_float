@@ -1,2 +1,2 @@
 #!/bin/bash
-imprimerf "%.2f" $NUM |trier
+export NUM=2.31 && printf '''%.2f''' $NUM
